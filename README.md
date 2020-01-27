@@ -2,11 +2,11 @@
 
 ### Introduction
 
-This project is focused on learning about tools for data analysis as well as get experience working with them. 
+The goal of this project was to analyze population estimates, unemployment rates, and population changes by county as well as their relationship to each other to see if they are correlated. The conclusion is that population changes seem to be independent of unemployment rates, however highly unemployed counties always have small populations.
 
 ### File Descriptions
 
-1. Data Analysis.ipynb - A jupyter notebook with data visualization
+1. Data Analysis.ipynb - A jupyter notebook with all the data visualization and analytics of the data
 
 2. data/ - a folder containing all necessary data files
   
