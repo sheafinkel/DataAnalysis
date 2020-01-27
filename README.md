@@ -17,7 +17,7 @@ This project is focused on learning about tools for data analysis as well as get
 
 ### Sources
 
-1. (Population Data)[https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/]
+1. [Population Data](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/)
     From the (U.S. Census Bureau)[https://www.census.gov/], 1990 and 2000 Censuses of Population, and latest (County Population Estimates)[https://www.census.gov/programs-surveys/popest.html].
     
 2. (Unemployment Data)[https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/]
