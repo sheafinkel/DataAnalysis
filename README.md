@@ -10,9 +10,9 @@ This project is focused on learning about tools for data analysis as well as get
 
 2. data - a folder containing all necessary data files
   
-  a. PopulationEstimates.xls - an excel sheet describing population estimates, population changes, and many other population related information of all counties in the United States
+    a. PopulationEstimates.xls - an excel sheet describing population estimates, population changes, and many other population related information of all counties in the United States
   
-  b. Unemployment.xls - an excel sheet describing the unemployment rates and other employment related information of all counties in the United States
+    b. Unemployment.xls - an excel sheet describing the unemployment rates and other employment related information of all counties in the United States
   
 
 ### Sources
